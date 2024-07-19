@@ -1,1 +1,2 @@
-Java-projects developed by me
+Projects developed with Java
+
